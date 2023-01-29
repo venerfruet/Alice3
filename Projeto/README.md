@@ -1,1 +1,1 @@
-Sessão dedicada ao projeto do curso
+# Sessão dedicada ao projeto do curso
